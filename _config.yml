@@ -3,6 +3,7 @@ description: Test site
 show_downloads: false
 github:
   is_project_page: false
+  main: ./index.html
   schedule: ./schedule.html
   Talks: ./talks.html
 theme: jekyll-theme-cayman
