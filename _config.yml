@@ -3,6 +3,6 @@ description: Test site
 show_downloads: false
 github:
   is_project_page: false
-  schedule: ./schedule.md
-  Talks: ./talks.md
+  schedule: schedule.md
+  Talks: talks.md
 theme: jekyll-theme-cayman
