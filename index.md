@@ -14,3 +14,4 @@ description: Main
 | Kyle Murphy | 2020-08-07 | Something About Waves | Some link |
 | David Sibeck | 2020-07-07 | Something About Magnetopuase | Some link |
 
+[Link to another page](./another-page.html).
