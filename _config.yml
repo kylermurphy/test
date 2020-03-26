@@ -1,4 +1,7 @@
 title: Space Physics Online Seminar Series
-description: 
-show_downloads: true
+description: Test site
+show_downloads: false
+github:
+  is_project_page: false
+  schedule: ./another-page.html
 theme: jekyll-theme-cayman
